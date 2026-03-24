@@ -13,7 +13,7 @@ spec:
         app: gitops-app
     spec:
       containers:
-      - name: app
-        image: riyajkalawant/gitops-app:v1
-        ports:
-        - containerPort: 3000
+        - name: gitops-app
+          image: riyajkalawant/gitops-app:v2
+          ports:
+            - containerPort: 3000
