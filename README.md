@@ -112,7 +112,8 @@ kubectl get pods
 
 # Check Services
 kubectl get svc
- Key Features
+```
+ #### Key Features
  GitOps-based deployment
  Automated sync using ArgoCD
  Self-healing enabled
@@ -121,11 +122,10 @@ kubectl get svc
 #### Learnings
 Importance of Git as source of truth
 ArgoCD automation and sync
-Kubernetes YAML structure
-Debugging deployment issues
- Conclusion
+Kubernetes YAML structure Debugging deployment issues
+ #### Conclusion
 
 Successfully implemented a production-style GitOps pipeline using ArgoCD and AWS EKS with automated deployments.
 #### Author
 
-Riyaj Kalawant# GitOps-Based-Kubernetes-Application-Deployment-using-ArgoCD
+Riyaj Kalawant
