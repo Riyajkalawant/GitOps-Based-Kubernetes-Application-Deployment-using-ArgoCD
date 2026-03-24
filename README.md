@@ -68,7 +68,7 @@ Developer → GitHub → ArgoCD → EKS Cluster → Kubernetes
 ![Pods](img/pods.png)
 
 ### Service (LoadBalancer)
-![Service](img/SVC.png)
+![Service](img/svc.png)
 
 ---
 
